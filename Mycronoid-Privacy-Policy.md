@@ -21,7 +21,7 @@ User data is encrypted and stored on secure servers.
 
 ## User Rights
 
-Users can request access, correction, or deletion of their data.
+Users can request access, correction, or deletion of their data by contacting us at "crensh4w@gmail.com".
 
 ## Policy Updates
 
