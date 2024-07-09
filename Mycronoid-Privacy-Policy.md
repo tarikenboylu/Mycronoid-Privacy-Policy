@@ -1,6 +1,6 @@
 # Mycronoid Privacy Policy
 
-This privacy policy outlines how Mycronoid collects, uses, shares, and protects user data.
+This privacy policy outlines how Mycronoid, a game owned by Fantastic Games Company, collects, uses, shares, and protects user data.
 
 ## Collected Data
 
